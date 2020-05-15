@@ -1,0 +1,13 @@
+{
+    "name": "yangfugui/test-package",
+    "description": "test",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangxiaotong",
+            "email": "2293964242@qq.com"
+        }
+    ],
+    "require": {}
+}
